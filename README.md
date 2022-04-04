@@ -111,7 +111,7 @@ query MyQuery {
 }
 ```
 
-* ```token1``` => **Unauthrized**
+* ```token1``` => **Unauthorized**
 * ```token2``` => works
 
 ### Document-level access control
@@ -127,7 +127,7 @@ query MyQuery {
 }
 ```
 
-* ```token1``` => **Unauthrized**
+* ```token1``` => **Unauthorized**
 * ```token2``` => works
 
 ## Cleanup
